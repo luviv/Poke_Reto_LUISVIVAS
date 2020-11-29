@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "712052095872",
+    "firebase_url": "https://pokereto-a0a3f.firebaseio.com",
+    "project_id": "pokereto-a0a3f",
+    "storage_bucket": "pokereto-a0a3f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712052095872:android:51351af2214b8be1fb9f65",
+        "android_client_info": {
+          "package_name": "com.example.pokereto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "712052095872-teo58840l048m5kpt98buafo67fplc3p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwTzC9D7rdlbukXGs4lX44ZLETaa86pvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "712052095872-teo58840l048m5kpt98buafo67fplc3p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

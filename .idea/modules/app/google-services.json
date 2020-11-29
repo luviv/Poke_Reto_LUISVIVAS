@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "68470545934",
+    "firebase_url": "https://pokereto-faaa7.firebaseio.com",
+    "project_id": "pokereto-faaa7",
+    "storage_bucket": "pokereto-faaa7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68470545934:android:be2785211afe08a82a265f",
+        "android_client_info": {
+          "package_name": "com.example.pokereto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68470545934-ihh7hlb8r4je7fue419fjc1ck2qpjgdd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pokereto",
+            "certificate_hash": "978d1f1b2a0df948fa34c6d64509b1715f7b3534"
+          }
+        },
+        {
+          "client_id": "68470545934-2t3lsolqofkaldod579lq0hgliuqa5i7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhsrFlvtTvCOt1qwfnCn5Jwug-13keoDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68470545934-2t3lsolqofkaldod579lq0hgliuqa5i7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
